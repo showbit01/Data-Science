@@ -1,0 +1,3 @@
+Correlations,"Agriculture, forestry & fishing",Mining & quarrying,Manufacturing,"Electricity, gas ,water supply & utility",Construction,"Trade, hotels, transport, communication and services related to broadcasting ","Financial,  real estate  &  professional  services ","Public administration, defence  and Other Services"
+pearson,0.38879540867187606,0.5388247987838398,0.8751345070587078,0.9482252104446756,0.6943914907170894,0.8457397079711017,0.8049894354708365,0.9418803983050825
+spearman,0.3988401356822409,0.5189845716161505,0.8553452237662764,0.9354415143888828,0.816610132399606,0.8395885764306816,0.8275522486048801,0.9431009957325747
